@@ -89,4 +89,4 @@ SELECT * FROM view_name;
 ```
 Now move the view table data in Google sheet to create a Dashboard in Looker 
  4. 📊 Interactive Dashboard on Looker: Finally, the visualizations were built into an interactive dashboard on Looker to present the findings in a user-friendly way. The dashboard allows you to filter data by gender, age, and state, and search for participants by name.
-- View the Looker Dashboard: [Looker Dashboard Link]()
+- View the Looker Dashboard: [Looker Dashboard Link](https://lookerstudio.google.com/reporting/e6d7ae6e-ad12-48a3-87df-bfc715f75d7a)
